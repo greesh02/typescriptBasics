@@ -1,0 +1,5 @@
+{
+"compilerOptions": {"sourceMap": true
+,"target": "ES6"},
+  "files": ["promises.ts","callback.ts","asyncawait.ts"]
+}
